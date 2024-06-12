@@ -8,3 +8,8 @@ function greet()
 {
     "Hello"
 }
+
+function div(a, b)
+{
+    return a / b
+}
