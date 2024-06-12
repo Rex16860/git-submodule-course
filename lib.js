@@ -6,5 +6,5 @@ function rand()
 
 function greet()
 {
-    "hello"
+    "Hello"
 }
